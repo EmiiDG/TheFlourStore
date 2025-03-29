@@ -1,0 +1,1 @@
+Sistema de optimización de flujo de pacientes en hospitales mediante una app móvil para usuarios y una app de escritorio para el personal administrativo.
