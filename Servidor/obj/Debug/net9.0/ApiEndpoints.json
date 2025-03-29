@@ -11,6 +11,69 @@
   },
   {
     "ContainingType": "Servidor.Controllers.ServidorController",
+    "Method": "Delete",
+    "RelativePath": "api/Servidor",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servidor.Controllers.ServidorController",
+    "Method": "GetByProffesional",
+    "RelativePath": "api/Servidor/profesional",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hospital",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servidor.Controllers.ServidorController",
+    "Method": "GetByToken",
+    "RelativePath": "api/Servidor/token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hospital",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servidor.Controllers.ServidorController",
     "Method": "Upload",
     "RelativePath": "api/Servidor/upload",
     "HttpMethod": "POST",

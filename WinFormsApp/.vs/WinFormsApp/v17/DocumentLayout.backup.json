@@ -3,33 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\winformsapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\winformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78121B1C-7F2C-4D1F-AF9D-B04A0A57E228}|..\\Medico\\Medico.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\medico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78121B1C-7F2C-4D1F-AF9D-B04A0A57E228}|..\\Medico\\Medico.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\medico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73636594-69E5-4EDE-B533-033C31D607E4}|..\\Servidor\\Servidor.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\servidor\\controllers\\servidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73636594-69E5-4EDE-B533-033C31D607E4}|..\\Servidor\\Servidor.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\servidor\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|c:\\users\\emili\\documents\\hackitba 2025\\theflourstore\\winformsapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84816B9-2D5A-4D89-9E2D-21FD697A33A6}|WinFormsApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Controllers\\ServidorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,7 +50,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Medico\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Medico\\Form1.cs",
+              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Medico\\Form1.cs",
+              "RelativeToolTip": "..\\Medico\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:47:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Medico\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Medico\\Form1.cs",
+              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Medico\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Medico\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:46:17.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Servidor\\Class.cs",
+              "RelativeDocumentMoniker": "..\\Servidor\\Class.cs",
+              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Servidor\\Class.cs",
+              "RelativeToolTip": "..\\Servidor\\Class.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:08:49.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServidorController.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Servidor\\Controllers\\ServidorController.cs",
+              "RelativeDocumentMoniker": "..\\Servidor\\Controllers\\ServidorController.cs",
+              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\Servidor\\Controllers\\ServidorController.cs",
+              "RelativeToolTip": "..\\Servidor\\Controllers\\ServidorController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:58:41.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -60,20 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T12:42:17.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -84,63 +138,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Servidor\\Program.cs",
-              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Program.cs",
-              "RelativeToolTip": "..\\..\\Servidor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:37:54.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Class.cs",
-              "RelativeDocumentMoniker": "..\\..\\Servidor\\Class.cs",
-              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Class.cs",
-              "RelativeToolTip": "..\\..\\Servidor\\Class.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T05:55:04.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServidorController.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Controllers\\ServidorController.cs",
-              "RelativeDocumentMoniker": "..\\..\\Servidor\\Controllers\\ServidorController.cs",
-              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\Servidor\\Controllers\\ServidorController.cs",
-              "RelativeToolTip": "..\\..\\Servidor\\Controllers\\ServidorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T05:52:34.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAuwEoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwEkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T04:31:16.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\WinFormsApp\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\WinFormsApp\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\emili\\Documents\\HackITBA 2025\\TheFlourStore\\WinFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T04:30:45.541Z"
+              "WhenOpened": "2025-03-29T04:30:45.541Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

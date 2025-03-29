@@ -26,7 +26,7 @@ namespace WinFormsApp
             Token = textBox1.Text;
             Hospital = textBox2.Text;
             MessageBox.Show("Datos asignados con éxito");
-            Close();
+            Hide();
         }
 
         private void folderBrowserDialog1_HelpRequest(object sender, EventArgs e)

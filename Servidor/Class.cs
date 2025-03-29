@@ -10,7 +10,7 @@
 
         public string apellidoProfesional { get; set; }
 
-        public string turno {  get; set; }
+        public int turno {  get; set; }
 
         public string departamento { get; set; }
 

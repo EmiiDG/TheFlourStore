@@ -67,12 +67,13 @@ namespace WinFormsApp
                 apellidoPaciente = PacienteSurname.Text,
                 nombreProfesional = ProfesionalName.Text,
                 apellidoProfesional = ProfesionalSurname.Text,
-                turno = Turno.Text,
+                turno = int.TryParse(Turno.Text, out int turno) ? turno : 0,
                 departamento = Departamento.Text,
                 piso = int.TryParse(Piso.Text, out int piso) ? piso : 0,
                 consultorio = Consultorio.Text,
                 token = Nuevo.Token,
-                hospital = Nuevo.Hospital
+                hospital = Nuevo.Hospital,
+                atendido = false
         };
 
             using (HttpClient client = new HttpClient())
@@ -84,7 +85,7 @@ namespace WinFormsApp
                 HttpResponseMessage response = await client.PostAsync("/api/Servidor/upload", content);
                 string result = await response.Content.ReadAsStringAsync();
 
-                MessageBox.Show($"Status: {response.StatusCode}\nRespuesta: {result}");
+                MessageBox.Show("Consulta asignada con éxito");
             }
         }
 
