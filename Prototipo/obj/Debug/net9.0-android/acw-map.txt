@@ -1,3 +1,0 @@
-Prototipo.MainActivity, Prototipo;crc641b665e25fb283b70.MainActivity
-Prototipo.MainActivity;crc641b665e25fb283b70.MainActivity
-prototipo.MainActivity;crc641b665e25fb283b70.MainActivity
