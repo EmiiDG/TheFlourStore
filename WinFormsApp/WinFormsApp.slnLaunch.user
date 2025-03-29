@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WinFormsApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Servidor\\Servidor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

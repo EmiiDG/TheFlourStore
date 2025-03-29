@@ -1,0 +1,102 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Servidor",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Servidor/upload": {
+      "post": {
+        "tags": [
+          "Servidor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Consulta"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Consulta"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Consulta"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Servidor": {
+      "get": {
+        "tags": [
+          "Servidor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Consulta": {
+        "type": "object",
+        "properties": {
+          "nombrePaciente": {
+            "type": "string",
+            "nullable": true
+          },
+          "apellidoPaciente": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreProfesional": {
+            "type": "string",
+            "nullable": true
+          },
+          "apellidoProfesional": {
+            "type": "string",
+            "nullable": true
+          },
+          "turno": {
+            "type": "string",
+            "nullable": true
+          },
+          "departamento": {
+            "type": "string",
+            "nullable": true
+          },
+          "piso": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "consultorio": {
+            "type": "string",
+            "nullable": true
+          },
+          "token": {
+            "type": "string",
+            "nullable": true
+          },
+          "hospital": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

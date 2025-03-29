@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Servidor.Controllers.ServidorController",
+    "Method": "Get",
+    "RelativePath": "api/Servidor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servidor.Controllers.ServidorController",
+    "Method": "Upload",
+    "RelativePath": "api/Servidor/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consulta",
+        "Type": "Servidor.Consulta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
